@@ -47,7 +47,7 @@ NodeLists are array-like but don't feature many of the methods provided by the A
 
 5. What is a component?
 
-A component is a small, potentially re-usable set of logic, behaviors and interface elements (UI or API). And without components or component-based UI development, our applications become monolithic spaghetti monsters and nightmares.
+A component is a small, potentially re-usable set of logic, behaviors and interface elements (UI or API). And without components or component-based UI development, our applications become monolithic spaghetti monsters and nightmares.get
 
 ### Git Set up
 
